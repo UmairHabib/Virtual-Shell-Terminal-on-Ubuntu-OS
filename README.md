@@ -1,5 +1,7 @@
 # Virtual-Shell-Terminal-on-Ubuntu-OS-used-to-handle-all-commands,Pipes and I/O Redirection
 
+Virtual shell for handling all the commands, Pipes and I/O redirections on Ubuntu. A detailed question is given in pictures
+
 
 Some Basic Decription of Code:
 
